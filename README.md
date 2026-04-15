@@ -63,10 +63,11 @@ Enemies can learn from player interactions (e.g. detecting attacks from behind c
 ## Dragons League
 MOBA-style gameplay prototype featuring hero evolution system with dynamic form switching (Human → Dragon), modular abilities, and combat targeting.
 
-## GAS Top-Down Game
-
+## GAS Top-Down RPG Game
+GAS Top-Down RPG — Self-developed UE5 top-down RPG built independently, with occasional reference to Stephen Ulibarri's GAS course when facing architectural challenges. Implements full RPG systems using Gameplay Ability System: primary/secondary attributes, offensive and passive spells, enemy AI with Behavior Trees, XP and leveling system, and multiplayer-ready architecture. Written with SOLID principles and ~50% C++ / ~50% Blueprints split — mirroring the approach used in shipped AAA titles.
 
 ## Item_Inventory_System
 Implemented an complex item and inventory system that allows you to change your armor and weapons with visual feedback also boosting character stats with responsive UI
 
 ## Basic Projects 
+Four complete games built while following the Epic Games-collaborated course by GameDev.tv. Covers C++ fundamentals, OOP, AI behaviour, Enhanced Input System, UI, and animation in Unreal Engine 5. Projects: Obstacle Assault, Dungeon Escape, Battle Blaster, Shooter Sam.
